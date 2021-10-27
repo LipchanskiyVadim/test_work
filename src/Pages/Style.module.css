@@ -1,0 +1,39 @@
+.input input {
+  width: 400px;
+  height: 40px;
+  padding-left: 10px;
+}
+
+.input {
+  margin-top: 10px;
+}
+
+.wrapper {
+  padding-top: 100px;
+  width: 400px;
+  margin: 0px auto;
+}
+
+.button {
+  margin-top: 40px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: silver;
+  transition: 0.6s;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
